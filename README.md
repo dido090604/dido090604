@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dido090604
-- 👀 I’m interested in startups, programming and corporate finace
+- 👀 I’m interested in startups, programming and corporate finance
 - 🌱 I’m currently learning VBA 
 - 💞️ I’m looking to collaborate with content to help people who want to use programming in their current jobs or develop software
 - 📫 Reach me in my LinkedIn https://www.linkedin.com/in/rodrigo-martins-7bb82b22a/
